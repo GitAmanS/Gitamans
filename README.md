@@ -57,9 +57,9 @@
 
 ## 📫 Connect With Me
 
-- **GitHub**: [github.com/yourusername](https://github.com/yourusername)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- **Twitter**: [twitter.com/yourusername](https://twitter.com/yourusername)
+- **GitHub**: [github.com/yourusername](https://github.com/GitAmanS)
+- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/aman-shaikh-3993a1234)
+- **Twitter**: [twitter.com/yourusername](https://twitter.com/twitteramans)
 
 ---
 
