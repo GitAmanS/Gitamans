@@ -1,19 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
-<h3 align="center">I'm a versatile Android & Web Developer with experience in Kotlin, Jetpack Compose, Retrofit, React, Next.js, and Node.js. I specialize in building scalable mobile and web apps with modern architecture, clean design, and smooth user experiences.</h3>
+<h3 align="center">I'm an Android Developer with experience in Kotlin, Jetpack Compose, and modern Android architectures. I specialize in building scalable mobile apps with clean architecture and smooth user experiences, while also working with React Native, backend technologies, and cloud services.</h3>
 
 ## 🚀 About Me
 
 - 📱 Developed Android apps using **Jetpack Compose**, **Kotlin**, **MVVM**, and **Firebase**
 - 🔗 Integrated **REST APIs** using **Retrofit**, **Room**, and **Gson** for robust data handling
-- 🌐 Built full-stack web apps with **React**, **Next.js**, **Node.js**, and **MongoDB**
-- ⚡ Created an **AI-powered eCommerce store** with **Olama backend AI integration**
-- 📝 Built a **Next.js-based blog website** focused on **SEO** and **tech topics**
+- ⚡ Created an **AI-powered app** with **backend AI integration**
 - 🎮 Published a mobile **game on Play Store** using **Unity**
+- 📱 Built cross-platform apps with **React Native**
 - 🏢 Currently working at **AgastyAi** as an **Android Developer**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <!-- Android -->
+  <!-- Android (Main Focus) -->
   <a href="https://developer.android.com" target="_blank">
     <img src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg" alt="android" width="40" height="40"/> 
   </a>
@@ -33,27 +32,23 @@
     <img src="https://seeklogo.com/images/S/sqlite-logo-B4095D9F0D-seeklogo.com.png" alt="room" width="40" height="40"/> 
   </a>
 
-  <!-- Web -->
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+  <!-- React Native -->
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
   </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
+
+  <!-- Backend -->
   <a href="https://nodejs.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
 
-  <!-- Tools -->
+  <!-- Cloud & Tools -->
   <a href="https://www.figma.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a>
@@ -73,4 +68,4 @@
 
 ---
 
-💡 *Always building, always learning – from Android to Web. Let’s create something amazing!* 🚀
+💡 *Always building, always learning – with a primary focus on Android development. Let's create something amazing!* 🚀
