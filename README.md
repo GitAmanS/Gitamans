@@ -8,7 +8,6 @@
 - ⚡ Created an **AI-powered app** with **backend AI integration**
 - 🎮 Published a mobile **game on Play Store** using **Unity**
 - 📱 Built cross-platform apps with **React Native**
-- 🏢 Currently working at **AgastyAi** as an **Android Developer**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
