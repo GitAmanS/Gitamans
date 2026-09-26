@@ -63,7 +63,6 @@
 ## 📫 Connect With Me
 
 - **GitHub**: [github.com/GitAmanS](https://github.com/GitAmanS)
-- **LinkedIn**: [linkedin.com/in/aman-shaikh-3993a1234](https://linkedin.com/in/aman-shaikh-3993a1234)
 - **Twitter**: [twitter.com/twitteramans](https://twitter.com/twitteramans)
 
 ---
